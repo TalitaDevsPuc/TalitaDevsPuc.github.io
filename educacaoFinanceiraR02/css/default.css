@@ -1,0 +1,37 @@
+/*Ínicio padrão*/
+* {
+    margin: 2px;
+}
+
+body {
+    align-items: center;
+}
+
+/*cores e fontes a definir*/
+:root {
+    --fontText: #000000;
+    --fontTitle: #000000;
+    --legend: #000000;
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+.defaultTemplateMenu {
+    border:solid;
+    height: 4rem;
+    text-align: center;
+}
+
+.defaultTemplateBody {
+    border:solid;
+    height: 30rem;
+    text-align: center;
+}
+
+.defaultTemplateFooter {
+    border:solid;
+    height: 4rem;
+    text-align: center;
+}
+/*Fim padrão*/
